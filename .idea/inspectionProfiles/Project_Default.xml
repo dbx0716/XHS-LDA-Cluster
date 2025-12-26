@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="libclang" />
+            <item index="1" class="java.lang.String" itemvalue="protobuf" />
+            <item index="2" class="java.lang.String" itemvalue="cmdstanpy" />
+            <item index="3" class="java.lang.String" itemvalue="prophet" />
+            <item index="4" class="java.lang.String" itemvalue="plotly" />
+            <item index="5" class="java.lang.String" itemvalue="tensorflow-io-gcs-filesystem" />
+            <item index="6" class="java.lang.String" itemvalue="chinese_calendar" />
+            <item index="7" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="8" class="java.lang.String" itemvalue="tqdm" />
+            <item index="9" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="10" class="java.lang.String" itemvalue="holidays" />
+            <item index="11" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="12" class="java.lang.String" itemvalue="tenacity" />
+            <item index="13" class="java.lang.String" itemvalue="astunparse" />
+            <item index="14" class="java.lang.String" itemvalue="stanio" />
+            <item index="15" class="java.lang.String" itemvalue="ply" />
+            <item index="16" class="java.lang.String" itemvalue="mkl-service" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
